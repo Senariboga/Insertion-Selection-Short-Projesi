@@ -1,2 +1,2 @@
 # Insertion-Selection-Sort-Projesi
-Insertion-Selection Sort Proje Örneği
+## Insertion-Selection Sort Proje Örneği
