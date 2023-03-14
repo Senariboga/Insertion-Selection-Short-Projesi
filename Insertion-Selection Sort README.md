@@ -1,4 +1,4 @@
-# Insertion-Selection-Sort-Projesi
+# Insertion-Selection Sort Projesi
 ## Insertion Sort Projesi:
 
 
