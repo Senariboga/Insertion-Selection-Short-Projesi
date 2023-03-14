@@ -6,7 +6,8 @@
 - 3rd **[2,6,16,22,18,27]** (2,6,16 sabit, 16 yerinde kaldı)
 - 4th **[2,6,16,18,22,27]** (2,6,16 sabit, 22 ile 18 yer değiştirdi)
 - 5th **[2,6,16,18,22,27]** (2,6,16,18,22 sabit, 27 yerinde kaldı)
-
+- **Big-O : O(n^2)**
+- **18 sayısı average case durumudur.**
 
 ## Selection Sort Projesi:
 
