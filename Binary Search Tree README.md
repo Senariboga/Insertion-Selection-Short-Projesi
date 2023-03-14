@@ -1,2 +1,2 @@
-# Sorting-ve-Searching-Algoritma-odevi
-Insertion-Selection Short Proje Örneği
+# Binary Search Tree Projesi
+
